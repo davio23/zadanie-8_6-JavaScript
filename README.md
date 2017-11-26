@@ -12,4 +12,4 @@ console.log("Wynik ujemny")
 }
 else if (value=0) {
 console.log("Wynik ani dodatni, ani ujemny")
-}
+} 
